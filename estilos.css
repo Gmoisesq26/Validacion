@@ -1,0 +1,81 @@
+body{
+  font-family: Helvetica;
+  font-size: 16px;
+  line-height: 24px;
+  color: #333;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.ancho{
+  max-width: 1200px;
+  margin: auto;
+  border: 1px red solid;
+}
+
+
+.celdas{
+  border: 1px blue solid;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+
+.negrita{
+  font-weight: bold;
+
+}
+.Subrallado{
+  text-decoration: underline;
+}
+
+
+.margen{
+  padding: 15px;
+
+}
+
+.centrar{
+  text-align: center;
+}
+
+.conten{
+  border: 1px #800000 solid;
+  text-align: left;
+}
+
+
+/* .formulario1{
+  border: 1px blue solid;
+  width: 500px;
+  margin: auto;
+  height: 300px; 
+} */
+.elemento1{
+  padding: 10px;
+  width: 500px;
+}
+.elemento2{
+  border: 3px #ececec solid;
+  padding: 10px;
+  width: 45%;
+  
+}
+
+.btn_rojo{
+  background-color: #800000;
+  color: white;
+  border: 0px;
+  padding: 10px 30px;
+}
+
+.actividades{
+  color:#333;
+}
+.ingles{
+  color:#333;
+}
